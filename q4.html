@@ -1,1 +1,96 @@
 
+<head>
+<style>
+</style>
+</head>
+<body>
+
+<form name="Form1" action="send.php" method="post">
+<table>
+	<tr>
+		<td>
+			<label>What kind of car would you like to buy:</label>
+		</td>
+	</tr>
+	
+	<tr>
+		<td>
+			<input type="radio" name="kind" value="proton"checked style="margin-left:40px;">Proton
+			<input type="radio" name="kind" value="honds">Honds
+			<input type="radio" name="kind" value="ferrari">Ferrari
+			<input type="radio" name="kind" value="ford">Ford
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<label>What colour do yuo want on your car:</label>
+		</td>
+	</tr>
+	<tr>
+	<td>
+		<select name="color" style="margin-left:40px;">
+			<option value="black" checked>black</option>
+			<option value="white">White</option>
+			<option value="red">Red</option>
+			<option value="blue">Blue</option>
+		</select>
+		<label>others</label>
+		<input type="text" name="color" size="20"/>
+	</td>
+
+	</tr>
+
+
+	<tr>
+		<td>
+			<label>Enter which car you preferred:</label>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<textarea name ="comments" cols=40 rows=6 style="margin-left:40px;"> </textarea>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<label>Tell us how to get in touch with you:</label></td>
+	</tr>
+	<tr>
+		<td>
+			<br>
+			<label style="margin-left:40px;">Name:<input type="text" name="name" size="20"></label>
+		</td>
+
+	</tr>
+	<tr>
+		<td>
+			<label style="margin-left:40px;">Email:</label><input type="text" name="email" size="20">
+		</td>
+
+	</tr>
+	<tr>
+		<td>
+			<label style="margin-left:40px;">Tel: &nbsp;&nbsp;&nbsp;</label><input type="text" name="username" size="20" maxlength="10">
+		</td>
+
+	</tr>
+	<tr>
+		<td>
+			<label style="margin-left:40px;">Fax:&nbsp;&nbsp;&nbsp;</label><input type="text" name="fax" size="20" >
+		</td>
+
+	</tr>
+	<tr>
+		<td>
+			<br><input type="checkbox" name="reply" style="margin-left:40px;">Please contact me as soon as possible
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<br><input type="submit" name="submit" value="Send">
+				<input type="reset" name="reset" value="clear">
+		</td>
+	</tr>
+</table>
+</form>
+
