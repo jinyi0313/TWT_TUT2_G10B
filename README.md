@@ -10,7 +10,7 @@ G10B_Sales_of_Point_System_for_Video_and_Audio_shop
 
 ----------
 
-
+----------
 |Click Continue On Installer|
 ----------
 |![enter image description here](https://lh3.googleusercontent.com/m8Zal9YlwzJcbOO3zOZufo4l97NhqLEpu-G7hSV3rn3SGVmuuNuexbpuDnAtga1KF_E=s0 "installer2.JPG")|
