@@ -63,7 +63,6 @@ G10B_Sales_of_Point_System_for_Video_and_Audio_shop
 |Choose file to import and and after finish choosing file click go |
 ----------
 |![enter image description here](https://lh3.googleusercontent.com/K2vMJAfzN97tQ-a0p9VSdefXZiVpES8G-WxgNH8SJMuBUXWwCtqmx5Wxfe1ulb-xzbw=s0 "import2.JPG")|
-----------
 | click on choose file to import .sql file|
 
 
@@ -210,4 +209,4 @@ G10B_Sales_of_Point_System_for_Video_and_Audio_shop
 | Admin Logout just click on log out button |
 ----------
 |![enter image description here](https://lh3.googleusercontent.com/-UgrHjONs5Wk/VsAa_LD2AgI/AAAAAAAAAHo/wxNN0_Iu5jc/s0/logout.JPG "logout.JPG")|
-|* Finish use it and proceed to logout.|
+| * Finish use it and proceed to logout.|
